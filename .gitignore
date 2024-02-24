@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+package-lock.json/
+package.json
+# Environment variables
+.env
+.env.local
+
+# macOS generated files
+.DS_Store
+
+# npm generated logs
+npm-debug.log
+yarn-error.log
+
+# Code coverage reports
+/coverage
+
+# Transpiled code or distribution directory
+/dist
+
+# Build directory
+/build
+
+# Log files
+/logs
